@@ -21,8 +21,8 @@ I’m enthusiastic about creating systems that are **efficient**, **scalable**, 
 ### 🌱 Always Learning  
 I’m currently diving deeper into **system design**, **database optimization**, and promising trends like **PWAs** and **cloud-native development**.  
 
-📫 Reach me at [your-email@example.com]  
-🌐 Check out my portfolio: [your-portfolio-link.com]  
-💻 Let’s connect on [LinkedIn](your-linkedin-link)  
+📫 Reach me at [sasidharan0827@gmail.com]  
+🌐 Check out my portfolio: [https://sasidharan-portfolioxx.netlify.app/]  
+💻 Let’s connect on [LinkedIn](https://www.linkedin.com/in/k-sasidharan/)  
 
 <p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
