@@ -1,6 +1,6 @@
  ![Add a heading](https://github.com/user-attachments/assets/f7aceae0-1c4c-4dd3-8be2-ce6a4dcc24c3)
   
-<p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 id="-hi-there-im-mikeowino"><img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50"> </h3></a></p>
+<p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
 
 
   I’m a passionate **Java Full-Stack Developer** eager to kickstart my career in building impactful applications and websites. With a strong foundation in both frontend and backend technologies, I’m excited to bring ideas to life with clean code and innovative solutions. 
@@ -20,6 +20,7 @@ I’m enthusiastic about creating systems that are **efficient**, **scalable**, 
 
 ### 🌱 Always Learning  
 I’m currently diving deeper into **system design**, **database optimization**, and promising trends like **PWAs** and **cloud-native development**.  
+<h3 id="-hi-there-im-mikeowino"><img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50"> </h3>
 
 📫 Reach me at [sasidharan0827@gmail.com]  
 🌐 Check out my portfolio: [https://sasidharan-portfolioxx.netlify.app/]  
