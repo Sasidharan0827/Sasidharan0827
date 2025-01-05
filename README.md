@@ -3,10 +3,6 @@
 <p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
 
 
-Got it! Here's a GitHub bio tailored for a fresher Java Full-Stack Developer:  
-
----
-
 I’m a passionate **Java Full-Stack Developer** eager to kickstart my career in building impactful applications and websites. With a strong foundation in both frontend and backend technologies, I’m excited to bring ideas to life with clean code and innovative solutions.  
 
 ### 🌟 What I Bring to the Table  
