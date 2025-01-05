@@ -20,7 +20,7 @@ I’m enthusiastic about creating systems that are **efficient**, **scalable**, 
 
 ### 🌱 Always Learning  
 I’m currently diving deeper into **system design**, **database optimization**, and promising trends like **PWAs** and **cloud-native development**.  
-<img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50"> 
+
 
 📫 Reach me at [sasidharan0827@gmail.com]  
 🌐 Check out my portfolio: [https://sasidharan-portfolioxx.netlify.app/]  
