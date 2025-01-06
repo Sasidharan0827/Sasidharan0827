@@ -58,7 +58,7 @@ I’m currently diving deeper into **system design**, **database optimization**,
     <img src="https://komarev.com/ghpvc/?username=Sasidharan0827">
     
 <!-- </a> -->
-<a href="https://github.com/chaitanya-pratap-singh?tab=followers"><img src="https://img.shields.io/github/followers/chaitanya-pratap-singh?label=Followers&amp;style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Sasidharan0827?tab=followers"><img src="https://img.shields.io/github/followers/chaitanya-pratap-singh?label=Followers&amp;style=social" alt="GitHub Badge"></a>
 <p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
 
 
